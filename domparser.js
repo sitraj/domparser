@@ -30,4 +30,4 @@ function callnode(node) {
 }
 tagresult = callnode(node)
 console.log(tagresult)
-// test = JSON.stringify(tagresult)
+jsonstring = JSON.stringify(tagresult)
